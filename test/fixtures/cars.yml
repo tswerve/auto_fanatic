@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cylinders: 1
+  displ: 9.99
+  driveTrain: MyString
+  fuelType: MyString
+  mpg: 1
+  make: MyString
+  model: MyString
+  trany: MyString
+  class: MyString
+  year: 1
+
+two:
+  cylinders: 1
+  displ: 9.99
+  driveTrain: MyString
+  fuelType: MyString
+  mpg: 1
+  make: MyString
+  model: MyString
+  trany: MyString
+  class: MyString
+  year: 1
